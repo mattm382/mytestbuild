@@ -15,7 +15,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR crimson][B]Ragnarok[/B][/COLOR]Wizard'
 BUILDERNAME = 'Ragnarok'
-EXCLUDES = [ADDON_ID, 'repository.ragnaraokwizard']
+EXCLUDES = [ADDON_ID, 'repository.ragnarokwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://raw.githubusercontent.com/ragnarlothbrok-odin/Wizard/master/builds.txt'
 # How often you would like it to check for build updates in days
@@ -96,7 +96,7 @@ AUTOUPDATE = 'Yes'
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL = 'No'
 # Addon ID for the repository
-REPOID = 'repository.ragnaraokwizard'
+REPOID = 'repository.ragnarokwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://'
 # Url to folder zip is located in
