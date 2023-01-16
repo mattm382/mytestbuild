@@ -402,6 +402,7 @@ def kodi_version():
     elif 20.0 <= CONFIG.KODIV <= 20.9:
         vername = 'Nexus'
     elif 21.0 <= CONFIG.KODIV <= 21.9
+        vername = 'Omega'
     else:
         vername = "Unknown"
     return vername
